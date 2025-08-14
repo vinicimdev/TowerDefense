@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f02c698547e6f54682a3387afe1c538, type: 3}
+  m_Name: NewTowerUpgradeData
+  m_EditorClassIdentifier: 
+  damagePathLevels:
+  - {fileID: 11400000, guid: 74e31aa542a0ab6419327256e20ea5f5, type: 2}
+  - {fileID: 11400000, guid: 4a9e996f80925d64198b0ca9554aaf11, type: 2}
+  - {fileID: 11400000, guid: 5670349534d43a1469bc2dcacebf2d22, type: 2}
+  controlPathLevels:
+  - {fileID: 11400000, guid: 5b5cd888f2b19ba498f918d13bcc5e6b, type: 2}
+  - {fileID: 11400000, guid: 73a29a6bc2ff554488a2c80f267f7213, type: 2}
+  - {fileID: 11400000, guid: 6fa7562718817c942b72751bec0f3f2d, type: 2}
+  efficiencyPathLevels:
+  - {fileID: 11400000, guid: cd45d0228c6588644ab7f4ea2ecea5d3, type: 2}
+  - {fileID: 11400000, guid: 29bd98cb1e6249040ba034308479cede, type: 2}
+  - {fileID: 11400000, guid: 28327eb739623574bb1192f4b80b92f1, type: 2}
